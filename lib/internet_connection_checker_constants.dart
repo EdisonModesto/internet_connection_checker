@@ -28,7 +28,7 @@ class InternetConnectionCheckerConstants {
 
   /// URL 2
   // ignore: constant_identifier_names
-  static const String URL_2 = 'https://cloudflare.com';
+  static const String URL_2 = 'https://one.one.one.one';
 
   /// URL 3
   // ignore: constant_identifier_names
